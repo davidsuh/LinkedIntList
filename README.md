@@ -1,4 +1,4 @@
-bubble
+LinkedIntList
 ======
 
-bubble method to be placed in LinkedIntList class
+Solutions from Practice-It to be placed in the LinkedIntList class
